@@ -26,8 +26,8 @@ CONFIG += c++11
 
 SOURCES += \
         main.cpp \
-        mainwindow.cpp \
-    pnp.cpp
+    pnp.cpp \
+    mainwindoww.cpp
 
 HEADERS += \
         mainwindow.h \
